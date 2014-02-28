@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  description: MyText
+  up_date_store: 2014-02-27 21:45:46
+  manufacturer: MyText
+  amount_store: 1
+
+two:
+  name: MyString
+  description: MyText
+  up_date_store: 2014-02-27 21:45:46
+  manufacturer: MyText
+  amount_store: 1
